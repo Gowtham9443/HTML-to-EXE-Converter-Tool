@@ -87,7 +87,7 @@ python build_cli.py input/index.html --name MyApp --width 1280 --height 720
 
 ### 📸 Preview
 
-![Image Alt]()
+![Image Alt](https://github.com/Gowtham9443/HTML-to-EXE-Converter-Tool/blob/7b149eca3c95b0c5ad6931cb4b02e987447c55d2/Demo/Screenshot%20(149).png)
 
 ---
 *⚡ Developed by **BEST_TEAM** · v2.0*
